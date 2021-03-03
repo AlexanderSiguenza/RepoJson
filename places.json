@@ -1,0 +1,43 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Volcán de San Vicente",
+          "latitude":13.5967436,
+          "longitude":-88.8725195
+        },
+        {
+          "placeId":3,
+          "placeName":"Volcán de Izalco",
+          "latitude":13.8053705,
+          "longitude":-89.6699631
+        },
+        {
+          "placeId":4,
+          "placeName":"Volcán de Santa Ana",
+          "latitude":13.8554813,
+          "longitude":-89.6457351
+        },
+        {
+          "placeId":5,
+          "placeName":"Volcán de San Salvador",
+          "latitude":13.7371443,
+          "longitude":-89.290824
+        },
+        {
+          "placeId":6,
+          "placeName":"Volcán de San Miguel",
+          "latitude":13.4334104,
+          "longitude":-88.3016863
+        },
+        {
+          "placeId":7,
+          "placeName":"El Volcán de Tecapa",
+          "latitude":13.4833734,
+          "longitude":-88.5341763
+        }
+    ]
+  }
+}
